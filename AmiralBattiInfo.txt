@@ -1,0 +1,3 @@
+
+test easy(0)
+1 easy(0)
